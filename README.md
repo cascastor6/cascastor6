@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Ponch Castor
+- 👀 I’m interested in ...
+- 🌱 I’m currently learning JavaScript, nodeJS, ReactJS, NextJS
+- 💞️ I’m looking to collaborate on open-source projects
+- 📫 Reach me via email at cascastor6@gmail.com
